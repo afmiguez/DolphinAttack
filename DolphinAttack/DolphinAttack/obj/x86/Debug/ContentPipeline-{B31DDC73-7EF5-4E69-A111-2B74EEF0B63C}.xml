@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ballbullet.png</Source>
+      <Name>ballbullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\ballbullet.xnb</Output>
+      <Time>2016-08-30T10:08:55.7382664-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bowser.png</Source>
+      <Name>Bowser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Bowser.xnb</Output>
+      <Time>2016-08-30T10:08:55.7773767-03:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2016-08-30T10:08:55.7853815-03:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet1.png</Source>
+      <Name>bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\bullet1.xnb</Output>
+      <Time>2016-08-30T10:20:06.3419273-03:00</Time>
+    </Item>
+    <Item>
+      <Source>bulletbeam.png</Source>
+      <Name>bulletbeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\bulletbeam.xnb</Output>
+      <Time>2016-08-30T10:08:55.7933862-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.png</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Button.xnb</Output>
+      <Time>2016-08-30T10:08:55.7978894-03:00</Time>
+    </Item>
+    <Item>
+      <Source>cbutton.png</Source>
+      <Name>cbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\cbutton.xnb</Output>
+      <Time>2016-08-30T10:08:55.8023926-03:00</Time>
+    </Item>
+    <Item>
+      <Source>ceu.png</Source>
+      <Name>ceu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\ceu.xnb</Output>
+      <Time>2016-08-30T10:08:55.807395-03:00</Time>
+    </Item>
+    <Item>
+      <Source>cloudBG.png</Source>
+      <Name>cloudBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\cloudBG.xnb</Output>
+      <Time>2016-08-30T10:08:55.8108978-03:00</Time>
+    </Item>
+    <Item>
+      <Source>controls.png</Source>
+      <Name>controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\controls.xnb</Output>
+      <Time>2016-08-30T10:08:55.8184027-03:00</Time>
+    </Item>
+    <Item>
+      <Source>controls1.jpg</Source>
+      <Name>controls1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\controls1.xnb</Output>
+      <Time>2016-08-30T10:08:55.8224054-03:00</Time>
+    </Item>
+    <Item>
+      <Source>credits.png</Source>
+      <Name>credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\credits.xnb</Output>
+      <Time>2016-08-30T10:08:55.8259088-03:00</Time>
+    </Item>
+    <Item>
+      <Source>credits1.jpg</Source>
+      <Name>credits1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\credits1.xnb</Output>
+      <Time>2016-08-30T10:08:55.8299126-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dolhpin1.png</Source>
+      <Name>Dolhpin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Dolhpin1.xnb</Output>
+      <Time>2016-08-30T10:08:55.8374157-03:00</Time>
+    </Item>
+    <Item>
+      <Source>DolhpinPink.png</Source>
+      <Name>DolhpinPink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\DolhpinPink.xnb</Output>
+      <Time>2016-08-30T10:08:55.840418-03:00</Time>
+    </Item>
+    <Item>
+      <Source>dolphin.png</Source>
+      <Name>dolphin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\dolphin.xnb</Output>
+      <Time>2016-08-30T10:08:55.8444207-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dolphin1.png</Source>
+      <Name>Dolphin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Dolphin1.xnb</Output>
+      <Time>2016-08-30T10:08:55.8484228-03:00</Time>
+    </Item>
+    <Item>
+      <Source>DolphinPink.png</Source>
+      <Name>DolphinPink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\DolphinPink.xnb</Output>
+      <Time>2016-08-30T10:08:55.851925-03:00</Time>
+    </Item>
+    <Item>
+      <Source>dragon.png</Source>
+      <Name>dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\dragon.xnb</Output>
+      <Time>2016-08-30T10:08:55.8564281-03:00</Time>
+    </Item>
+    <Item>
+      <Source>DragonDolphin.png</Source>
+      <Name>DragonDolphin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\DragonDolphin.xnb</Output>
+      <Time>2016-08-30T10:08:55.8599303-03:00</Time>
+    </Item>
+    <Item>
+      <Source>drake.png</Source>
+      <Name>drake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\drake.xnb</Output>
+      <Time>2016-08-30T10:08:55.8654339-03:00</Time>
+    </Item>
+    <Item>
+      <Source>enemies.png</Source>
+      <Name>enemies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\enemies.xnb</Output>
+      <Time>2016-08-30T10:08:55.8729393-03:00</Time>
+    </Item>
+    <Item>
+      <Source>exitbutton.png</Source>
+      <Name>exitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\exitbutton.xnb</Output>
+      <Time>2016-08-30T10:08:55.876942-03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2016-08-30T10:08:55.8809447-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball.png</Source>
+      <Name>fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\fireball.xnb</Output>
+      <Time>2016-08-30T10:08:55.8929528-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fundo.jpg</Source>
+      <Name>fundo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\fundo.xnb</Output>
+      <Time>2016-08-30T10:08:55.9004582-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundo1.jpg</Source>
+      <Name>Fundo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Fundo1.xnb</Output>
+      <Time>2016-08-30T10:08:55.9039604-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundo2.jpg</Source>
+      <Name>Fundo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Fundo2.xnb</Output>
+      <Time>2016-08-30T10:08:55.9079625-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundo3.jpg</Source>
+      <Name>Fundo3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Fundo3.xnb</Output>
+      <Time>2016-08-30T10:08:55.9119658-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fundo4.jpg</Source>
+      <Name>Fundo4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Fundo4.xnb</Output>
+      <Time>2016-08-30T10:08:55.915468-03:00</Time>
+    </Item>
+    <Item>
+      <Source>fundopausa.jpg</Source>
+      <Name>fundopausa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\fundopausa.xnb</Output>
+      <Time>2016-08-30T10:08:55.9189708-03:00</Time>
+    </Item>
+    <Item>
+      <Source>hadouken1.png</Source>
+      <Name>hadouken1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\hadouken1.xnb</Output>
+      <Time>2016-08-30T10:08:55.927476-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Health.png</Source>
+      <Name>Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\Health.xnb</Output>
+      <Time>2016-08-30T10:08:55.9314781-03:00</Time>
+    </Item>
+    <Item>
+      <Source>home.png</Source>
+      <Name>home</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\home.xnb</Output>
+      <Time>2016-08-30T10:08:55.9354808-03:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2016-08-30T10:08:55.9499906-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.png</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\pause.xnb</Output>
+      <Time>2016-08-30T10:08:55.9665025-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pause2.png</Source>
+      <Name>pause2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\pause2.xnb</Output>
+      <Time>2016-08-30T10:08:55.9700041-03:00</Time>
+    </Item>
+    <Item>
+      <Source>PLAY.png</Source>
+      <Name>PLAY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\PLAY.xnb</Output>
+      <Time>2016-08-30T10:08:55.9745078-03:00</Time>
+    </Item>
+    <Item>
+      <Source>QUIT.png</Source>
+      <Name>QUIT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\QUIT.xnb</Output>
+      <Time>2016-08-30T10:08:55.9780094-03:00</Time>
+    </Item>
+    <Item>
+      <Source>QUIT2.png</Source>
+      <Name>QUIT2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\QUIT2.xnb</Output>
+      <Time>2016-08-30T10:08:55.9815116-03:00</Time>
+    </Item>
+    <Item>
+      <Source>RESUME.png</Source>
+      <Name>RESUME</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\RESUME.xnb</Output>
+      <Time>2016-08-30T10:08:55.9855143-03:00</Time>
+    </Item>
+    <Item>
+      <Source>supershot.png</Source>
+      <Name>supershot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\supershot.xnb</Output>
+      <Time>2016-08-30T10:08:55.9960215-03:00</Time>
+    </Item>
+    <Item>
+      <Source>supershot1.png</Source>
+      <Name>supershot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\supershot1.xnb</Output>
+      <Time>2016-08-30T10:08:56.0000248-03:00</Time>
+    </Item>
+    <Item>
+      <Source>supershot2.png</Source>
+      <Name>supershot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\supershot2.xnb</Output>
+      <Time>2016-08-30T10:08:56.0040262-03:00</Time>
+    </Item>
+    <Item>
+      <Source>supershot3.png</Source>
+      <Name>supershot3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\supershot3.xnb</Output>
+      <Time>2016-08-30T10:08:56.007529-03:00</Time>
+    </Item>
+    <Item>
+      <Source>teclado.jpg</Source>
+      <Name>teclado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\teclado.xnb</Output>
+      <Time>2016-08-30T10:08:56.0110312-03:00</Time>
+    </Item>
+    <Item>
+      <Source>bossSong.mp3</Source>
+      <Name>bossSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\bossSong.xnb</Output>
+      <Extra>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\bossSong.wma</Extra>
+      <Time>2016-08-30T10:08:55.7738727-03:00</Time>
+    </Item>
+    <Item>
+      <Source>musicmenu.mp3</Source>
+      <Name>musicmenu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\musicmenu.xnb</Output>
+      <Extra>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\musicmenu.wma</Extra>
+      <Time>2016-08-30T10:08:55.9584971-03:00</Time>
+    </Item>
+    <Item>
+      <Source>single-fusion-shot.mp3</Source>
+      <Name>single-fusion-shot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\single-fusion-shot.xnb</Output>
+      <Extra>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\single-fusion-shot.wma</Extra>
+      <Time>2016-08-30T10:08:55.9925199-03:00</Time>
+    </Item>
+    <Item>
+      <Source>buildUp.wav</Source>
+      <Name>buildUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\buildUp.xnb</Output>
+      <Time>2016-08-30T10:08:55.7813776-03:00</Time>
+    </Item>
+    <Item>
+      <Source>concentrated.wav</Source>
+      <Name>concentrated</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\concentrated.xnb</Output>
+      <Time>2016-08-30T10:08:55.8144-03:00</Time>
+    </Item>
+    <Item>
+      <Source>dash.wav</Source>
+      <Name>dash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\dash.xnb</Output>
+      <Time>2016-08-30T10:08:55.8339129-03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion-02.wav</Source>
+      <Name>explosion-02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\explosion-02.xnb</Output>
+      <Time>2016-08-30T10:08:55.8844469-03:00</Time>
+    </Item>
+    <Item>
+      <Source>hadouken.wav</Source>
+      <Name>hadouken</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\hadouken.xnb</Output>
+      <Time>2016-08-30T10:08:55.922473-03:00</Time>
+    </Item>
+    <Item>
+      <Source>kame1.wav</Source>
+      <Name>kame1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\kame1.xnb</Output>
+      <Time>2016-08-30T10:08:55.9389854-03:00</Time>
+    </Item>
+    <Item>
+      <Source>kame2.wav</Source>
+      <Name>kame2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\kame2.xnb</Output>
+      <Time>2016-08-30T10:08:55.9429863-03:00</Time>
+    </Item>
+    <Item>
+      <Source>laugh.wav</Source>
+      <Name>laugh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\laugh.xnb</Output>
+      <Time>2016-08-30T10:08:55.9464885-03:00</Time>
+    </Item>
+    <Item>
+      <Source>shot.wav</Source>
+      <Name>shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\shot.xnb</Output>
+      <Time>2016-08-30T10:08:55.9890171-03:00</Time>
+    </Item>
+    <Item>
+      <Source>EndGame.spritefont</Source>
+      <Name>EndGame</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\EndGame.xnb</Output>
+      <Time>2016-08-30T10:08:55.8689367-03:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2016-08-30T10:08:55.9624986-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B31DDC73-7EF5-4E69-A111-2B74EEF0B63C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttackContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-30T09:03:14.1609307-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

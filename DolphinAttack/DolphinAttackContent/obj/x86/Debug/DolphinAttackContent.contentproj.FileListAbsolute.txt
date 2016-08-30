@@ -1,0 +1,1 @@
+c:\users\af\documents\visual studio 2015\Projects\DolphinAttack\DolphinAttack\DolphinAttackContent\obj\x86\Debug\DolphinAttackContent.contentprojResolveAssemblyReference.cache
